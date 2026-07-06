@@ -85,4 +85,4 @@ Movie-EDA/
 
 **Alla Muslih**
 
-Computer Science Graduate | Artificial Intelligence | Aspiring Data Analyst
+Computer Science Graduate | Artificial Intelligence 
